@@ -151,10 +151,8 @@ button {
   flex-wrap: wrap;
   justify-content: space-around;
 }
-.articale{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+hr{
+  margin-bottom: 0.5rem;
 }
 .card {
   width: 100%;
