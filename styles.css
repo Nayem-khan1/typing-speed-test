@@ -146,7 +146,16 @@ button {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 24px;
 }
-
+#blog-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.articale{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 .card {
   width: 100%;
   height: 100%;
